@@ -1,0 +1,17 @@
+* {
+  margin: 0 auto;
+}
+
+.cart-button {
+  background-color: skyblue;
+}
+
+.goods-list {
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.goods-item {
+  margin: 0 25px;
+}
